@@ -3,7 +3,7 @@ Simple (GI Joe) Cobra Icon for the snake app
 
 Use: Adds a icon to the app screen of your XM8
 
-Installation:
+Installation:/n
 insert into the folder you have your images in, add and config the info below to your likings.
 
 //App 11
