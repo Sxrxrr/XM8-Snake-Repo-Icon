@@ -1,5 +1,5 @@
 # XM8-Snake-Repo-Icon
-Simple (GI Joe) Cobra Icon for the snake app
+Simple (GI Joe) Cobra Icon (white) for the snake app
 
 Use: Adds a icon to the app screen of your XM8
 
